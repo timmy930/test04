@@ -1,6 +1,4 @@
 # test04
 
 ## tooopic
-- git
-- web
-- another
+- I will be graduated from this unirveristy this year.
